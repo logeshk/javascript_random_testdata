@@ -1,1 +1,2 @@
-# javascript_random_testdata
+# Generate Random Testdata in JavaScript framework
+
